@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://github.com/chrisshakkour/HydroPhonica/blob/master/images/nft.jpg" alt="NFT"></a>
+ <img src="https://github.com/ChrisShakkour/HydroPhonica/blob/main/images/nft.jpg" alt="NFT"></a>
 </p>
 
 <h3 align="center">Automated Hydroponics using Arduino Mega</h3>
@@ -12,7 +12,6 @@
 
 ## 📝 Index
 - [Description](#description)
-- [Images](#screenshots)
 - [Sensors Used](#hardware_used)
 - [Software Requirements](#software_requirements)
 - [Conclusion](#conclusion)
@@ -26,22 +25,6 @@
 - Plants in a hydroponic system grow more quickly because they have food and water available to them all the time. They produce bigger crops because they can devote their energy to producing their crop rather than producing large roots such as would be needed in soil to seek out water and nutrients. Hydroponically-grown plants have smaller root systems because the roots do not need to go out looking for nutrients and water.
 
 - All of this is possible through careful control of the nutrient solution and pH levels. A hydroponic system will also use 70-90% less water than soil based plants because the system is enclosed, which results in less evaporation. Hydroponics is better for the environment because it reduces waste and pollution from soil runoff. <sup>[[2]](#2)</sup>
-
-
-
-## 🎞️ Images <a name="images"></a>
-![Home Page](https://imgur.com/UK5jDZZ.jpg)
-![Intro 1](https://imgur.com/fPFmyoV.jpg)
-![Intro 2](https://imgur.com/ZWgLvBh.jpg)
-![Intro 3](https://imgur.com/11USWBp.jpg)
-![Work 1](https://imgur.com/PHxcO7v.jpg)
-![Work 2](https://imgur.com/PuKdpfC.jpg)
-![About 1](https://imgur.com/l2F1xYg.jpg)
-![About 2](https://imgur.com/pmIM7Nl.jpg)
-![Log in](https://imgur.com/foOHpH1.jpg)
-![Sign up](https://imgur.com/HEoo0pT.jpg)
-![Sensor Data (Tabular)](https://i.imgur.com/Pe3MPlg.jpg)
-![Sensor Data (Graphical)](https://i.imgur.com/Q6NAUEZ.jpg)
 
 
 ## 🔩 Hardware Used <a name="hardware_used"></a>
