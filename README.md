@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://github.com/ChrisShakkour/HydroPhonica/blob/main/images/nft.jpg" alt="NFT"></a>
+ <img src="https://github.com/ChrisShakkour/HydroPhonica/blob/main/images/portfolio_02.jpg" alt="NFT"></a>
 </p>
 
 <h3 align="center">Automated Hydroponics using Arduino Mega</h3>
